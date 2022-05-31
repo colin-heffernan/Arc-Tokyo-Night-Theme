@@ -20,13 +20,13 @@ $selection_mode_bg: if($transparency == 'true', transparentize($selected_bg_colo
 $selection_mode_fg: $selected_fg_color;
 $warning_color: #ff9e64;
 $error_color: #f7768e;
-$warning_fg_color: #c0caf5;
-$error_fg_color: #c0caf5;
+$warning_fg_color: #1a1b26;
+$error_fg_color: #1a1b26;
 $success_color: #9ece6a;
 $destructive_color: #f7768e;
-$suggested_color: #7dcfff;
-$destructive_fg_color: #c0caf5;
-$suggested_fg_color: #c0caf5;
+$suggested_color: #7aa2f7;
+$destructive_fg_color: #1a1b26;
+$suggested_fg_color: #1a1b26;
 
 $drop_target_color: #ff9e64;
 
