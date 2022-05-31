@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=@variant_name@
 MetacityTheme=@variant_name@
-IconTheme=Adwaita
-CursorTheme=DMZ-Black
+IconTheme=Papirus
+CursorTheme=Adwaita
 ButtonLayout=menu:minimize,maximize,close

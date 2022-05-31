@@ -1,5 +1,5 @@
 project(
-  'arc-theme',
+  'arc-tokyo-night-theme',
   version : '20220405',
   meson_version: '>= 0.53.0',
   license : 'GPL3',
@@ -13,7 +13,7 @@ fs = import('fs')
 variant_name = {
   'light' : (get_option('transparency') ? 'Arc' : 'Arc-solid'),
   'darker' : (get_option('transparency') ? 'Arc-Darker' : 'Arc-Darker-solid'),
-  'dark' : (get_option('transparency') ? 'Arc-Dark' : 'Arc-Dark-solid'),
+  'dark' : (get_option('transparency') ? 'Arc-Tokyo-Night' : 'Arc-Tokyo-Night-solid'),
   'lighter' : (get_option('transparency') ? 'Arc-Lighter' : 'Arc-Lighter-solid'),
 }
 
