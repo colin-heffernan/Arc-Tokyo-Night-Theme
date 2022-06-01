@@ -11,9 +11,9 @@ This fork of THAT fork is designed to change the color scheme to that of Enkia's
 ** Supported toolkits and desktops
 
 Arc Tokyo Night comes with themes for the following:
-* GTK 2
-* GTK 3
-* GTK 4
+- GTK 2
+- GTK 3
+- GTK 4
 
 ** Installation
 
