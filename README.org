@@ -6,7 +6,7 @@ The theme was originally designed and developed by [[https://github.com/horst318
 
 This fork aims to keep the theme updated with new toolkit and desktop environment versions, resolve pre-existing issues, and improve and polish the theme while preserving the original visual design.
 
-This fork of THAT fork is designed to change the color scheme to that of Enkia's Tokyo Night theme for Visual Studio Code.
+This fork of THAT fork is designed to change the color scheme to that of [[https://github.com/enkia/tokyo-night-vscode-theme][Enkia's Tokyo Night theme for Visual Studio Code]].
 
 ** Supported toolkits and desktops		
 
@@ -29,4 +29,4 @@ Some known issues are addressed in [[https://github.com/jnsh/arc-theme/wiki/Comm
 
 ** License
 
-Arc is available under the terms of the GPL-3.0. See [COPYING](https://github.com/jnsh/arc-theme/blob/master/COPYING) for details.
+Arc is available under the terms of the GPL-3.0. See [[https://github.com/jnsh/arc-theme/blob/master/COPYING][COPYING]] for details.
