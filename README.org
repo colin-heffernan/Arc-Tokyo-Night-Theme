@@ -11,7 +11,7 @@ This fork of THAT fork is designed to change the color scheme to that of [[https
 ** Supported toolkits and desktops		
 
 Arc Tokyo Night comes with themes for the following:
-- GTK 2
+- GTK 2 (VERY unfinished)
 - GTK 3
 - GTK 4
 
