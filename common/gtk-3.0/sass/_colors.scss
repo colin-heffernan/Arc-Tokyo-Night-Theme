@@ -92,17 +92,17 @@ $osd_borders_color: if($variant != 'lighter', transparentize(black, 0.3), transp
 //WM Buttons
 
 // Close
-$wm_button_close_bg: if($variant == 'light' or $variant=='lighter', #f7768e, #f7768e);
-$wm_button_close_hover_bg: if($variant == 'light' or $variant=='lighter', #f7768e, #f7768e);
-$wm_button_close_active_bg: if($variant == 'light' or $variant=='lighter', #f7768e, #f7768e);
+$wm_button_close_bg: if($variant == 'light' or $variant=='lighter', #f46067, #c0caf5);
+$wm_button_close_hover_bg: if($variant == 'light' or $variant=='lighter', #f68086, #f7768e);
+$wm_button_close_active_bg: if($variant == 'light' or $variant=='lighter', #f13039, #e54d70);
 
-$wm_icon_close_bg: if($variant == 'light' or $variant=='lighter', #F8F8F9 , #f0f0f0);
+$wm_icon_close_bg: if($variant == 'light' or $variant=='lighter', #F8F8F9 , #2f343f);
 
 // Minimize, Maximize
-$wm_button_hover_bg: if($variant == 'light' or $variant=='lighter', #fdfdfd, #454C5C);
+$wm_button_hover_bg: if($variant == 'light' or $variant=='lighter', #fdfdfd, #414868);
 $wm_button_active_bg: $selected_bg_color;
 
-$wm_button_hover_border: if($variant == 'light' or $variant=='lighter', #D1D3DA, #262932);
+$wm_button_hover_border: if($variant == 'light' or $variant=='lighter', #D1D3DA, #565f89);
 
 $wm_icon_bg: if($variant == 'light' or $variant=='lighter', #90949E, #90939B);
 $wm_icon_unfocused_bg: if($variant == 'light' or $variant=='lighter', #B6B8C0, #666A74);
