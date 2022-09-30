@@ -7,7 +7,6 @@ pkgs.mkShell {
 		glib.dev
 		sassc
 	];
-
 	shellHook = ''
 	'';
 }
